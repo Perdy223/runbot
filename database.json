@@ -1,0 +1,117 @@
+{
+  "users": {
+    "62895360475324@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6285646345711@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6281243336017@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6281947707409@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "628998067856@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6287895512759@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6285828357727@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6285654180548@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6289524253952@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6282230196826@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6285394318168@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6281385313099@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    }
+  },
+  "chats": {
+    "62895360475324@s.whatsapp.net": {
+      "setWelcome": "",
+      "setLeave": ""
+    },
+    "120363023786018639@g.us": {
+      "setWelcome": "",
+      "setLeave": ""
+    },
+    "6285654180548-1633505492@g.us": {
+      "setWelcome": "",
+      "setLeave": ""
+    },
+    "628998067856@s.whatsapp.net": {
+      "setWelcome": "",
+      "setLeave": ""
+    },
+    "120363022181661281@g.us": {
+      "setWelcome": "",
+      "setLeave": ""
+    },
+    "120363022001956134@g.us": {
+      "setWelcome": "",
+      "setLeave": ""
+    }
+  },
+  "database": {},
+  "game": {
+    "math": [],
+    "family100": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "tebakbendera": [],
+    "siapaaku": [],
+    "tebakkalimat": [],
+    "caklontong": [],
+    "susunkata": [],
+    "tekateki": [],
+    "tebakkabupaten": [],
+    "tebakkimia": [],
+    "tebaklirik": [],
+    "tebaktebakan": []
+  },
+  "absen": {},
+  "cmd": {},
+  "settings": {
+    "62895360475324@s.whatsapp.net": {
+      "available": false,
+      "composing": false,
+      "recording": false,
+      "autorespond": false
+    }
+  }
+}
